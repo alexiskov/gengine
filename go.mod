@@ -1,3 +1,3 @@
-module github.com/alexiskov/gengine/
+module github.com/alexiskov/gengine
 
 go 1.18
